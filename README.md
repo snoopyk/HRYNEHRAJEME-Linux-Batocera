@@ -9,7 +9,7 @@ Balíček již obsahuje zkompilovanou nativní **Linux x86_64** verzi emulátoru
 ## 📦 Ke stažení
 * **[Stáhnout HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com/snoopyk/HRYNEHRAJEME-Linux-Batocera/releases/download/v2.7.9/HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip)**
 
-## 🚀 Rychlá instalace (Batocera Linux)
+## 🚀 Rychlá instalace (Batocera Linux) "Testováno na ASUS ROG Xbox Ally X Z2 Extreme + Batocera v44"
 1. Stáhni archiv `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` a rozbal ho v PC.
 2. V souboru `ports/hrynehrajeme_official/config.json` vyplň své `username` a `password` z webu `hrynehrajeme.cz`.
 3. Do složky `ports/hrynehrajeme_official/roms/` nahraj aktuální turnajové ROMky.
@@ -35,7 +35,7 @@ The package already includes a precompiled native **Linux x86_64** build of **[W
 ## 📦 Download
 * **[Download HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com/snoopyk/HRYNEHRAJEME-Linux-Batocera/releases/download/v2.7.9/HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip)**
 
-## 🚀 Quick Installation (Batocera Linux)
+## 🚀 Quick Installation (Batocera Linux) "Tested on ASUS ROG Xbox Ally X Z2 Extreme + Batocera v44"
 1. Download `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` and extract it on your PC.
 2. Open `ports/hrynehrajeme_official/config.json` and fill in your `username` and `password` from `hrynehrajeme.cz`.
 3. Copy the current tournament ROMs into the `ports/hrynehrajeme_official/roms/` subfolder.
