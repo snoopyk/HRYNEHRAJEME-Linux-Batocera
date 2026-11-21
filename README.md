@@ -2,7 +2,7 @@
 
 Komunitní linuxový balíček pro arkádové turnaje ve **WolfMAME** (určeno pro **Batocera Linux, SteamOS, Debian, Ubuntu** a další 64bitové Linux distribuce).
 
-Projekt je postavený na původní oficiální desktopové utilitě **[hrynehrajeme-upload-utility](https://github.com)** a upravený pro bezproblémový chod na Linuxu a v prostředí Batocera Ports.
+Projekt je postavený na původní oficiální desktopové utilitě **[HRYNEHRAJEME 2.7.9](https://github.com/hrynehrajeme/hrynehrajeme-upload-utility/releases/tag/2.7.9)** a upravený pro bezproblémový chod na Linuxu a v prostředí Batocera Ports.
 
 ## 📦 Ke stažení
 * **[Stáhnout HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com)**
