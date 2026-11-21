@@ -7,7 +7,7 @@ Projekt je postavený na původní oficiální desktopové utilitě **[HRYNEHRAJ
 ## 📦 Ke stažení
 * **[Stáhnout HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com/snoopyk/HRYNEHRAJEME-Linux-Batocera/releases/download/v2.7.9/HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip)**
 
-## 🚀 Rychlá instalace (Batocera Linux)
+## 🚀 Rychlá instalace (Batocera Linux) "Testováno na ASUS ROG Xbox Ally X Z2 Extreme + Batocera v44"
 1. Stáhni archiv `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` a rozbal ho v PC.
 2. V souboru `ports/hrynehrajeme_official/config.json` vyplň své `username` a `password` z webu `hrynehrajeme.cz`.
 3. Do složky `ports/hrynehrajeme_official/` nahraj svou Linux `x86_64` binárku WolfMAME (pojmenovanou jako `wolfmame`) a do podsložky `roms/` aktuální turnajové ROMky.
