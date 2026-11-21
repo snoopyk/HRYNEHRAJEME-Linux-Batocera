@@ -31,7 +31,7 @@ This project is based on the original official desktop utility **[HRYNEHRAJEME](
 ## 📦 Download
 * **[Download HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com/snoopyk/HRYNEHRAJEME-Linux-Batocera/releases/download/v2.7.9/HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip)**
 
-## 🚀 Quick Installation (Batocera Linux)
+## 🚀 Quick Installation (Batocera Linux) "Tested on ASUS ROG Xbox Ally X Z2 Extreme + Batocera v44"
 1. Download `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` and extract it on your PC.
 2. Open `ports/hrynehrajeme_official/config.json` and fill in your `username` and `password` from `hrynehrajeme.cz`.
 3. Place your Linux `x86_64` WolfMAME binary (named `wolfmame`) into `ports/hrynehrajeme_official/` and copy the current tournament ROMs into the `roms/` subfolder.
