@@ -1,13 +1,14 @@
 # HRYNEHRAJEME – Neoficiální Linux / Batocera port (x86_64)
 
-Komunitní linuxový balíček oficiálního klienta **HRYNEHRAJEME.cz** pro arkádové turnaje ve **WolfMAME** (určeno pro **Batocera Linux, SteamOS, Debian, Ubuntu** a další 64bitové Linux distribuce).
+Komunitní linuxový balíček pro arkádové turnaje ve **WolfMAME** (určeno pro **Batocera Linux, SteamOS, Debian, Ubuntu** a další 64bitové Linux distribuce).
 
-## 📦 Ke stažení (Releases)
-Aktuální instalační balíček najdeš vpravo v sekci **[Releases](../../releases)**:
-* **`HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip`** – kompletní balíček pro **Batocera / Linux (x86_64)**
+Projekt je postavený na původní oficiální desktopové utilitě **[hrynehrajeme-upload-utility](https://github.com)** a upravený pro bezproblémový chod na Linuxu a v prostředí Batocera Ports.
+
+## 📦 Ke stažení
+* **[Stáhnout HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com)**
 
 ## 🚀 Rychlá instalace (Batocera Linux)
-1. Stáhni archiv `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` ze sekce **Releases** a rozbal ho v PC.
+1. Stáhni archiv `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` a rozbal ho v PC.
 2. V souboru `ports/hrynehrajeme_official/config.json` vyplň své `username` a `password` z webu `hrynehrajeme.cz`.
 3. Do složky `ports/hrynehrajeme_official/` nahraj svou Linux `x86_64` binárku WolfMAME (pojmenovanou jako `wolfmame`) a do podsložky `roms/` aktuální turnajové ROMky.
 4. Zkopíruj celou složku `ports` na disk/SD kartu do `/userdata/roms/` (nebo přes síť `\\BATOCERA\share\roms\`).
