@@ -26,10 +26,10 @@ Projekt je postavený na původní oficiální desktopové utilitě **[HRYNEHRAJ
 
 Community Linux package of the **HRYNEHRAJEME.cz** tournament client for **WolfMAME** arcade tournaments (designed for **Batocera Linux, SteamOS, Debian, Ubuntu**, and other 64-bit Linux distributions).
 
-This project is based on the original official desktop utility **[HRYNEHRAJEME](SEM_VLOZ_ODKAZ_NA_PUVODNI_RELEASES)** and adapted for smooth operation on Linux and Batocera Ports.
+This project is based on the original official desktop utility **[HRYNEHRAJEME](https://github.com/hrynehrajeme/hrynehrajeme-upload-utility/releases)** and adapted for smooth operation on Linux and Batocera Ports.
 
 ## 📦 Download
-* **[Download HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](SEM_VLOZ_ODKAZ_NA_STAZENI_ZIP)**
+* **[Download HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip (129 MB)](https://github.com/snoopyk/HRYNEHRAJEME-Linux-Batocera/releases/download/v2.7.9/HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip)**
 
 ## 🚀 Quick Installation (Batocera Linux)
 1. Download `HRYNEHRAJEME-2.7.9-Universal-Linux-Batocera.zip` and extract it on your PC.
